@@ -1,0 +1,3 @@
+[submodule "Plugins/GenericFoliage"]
+	path = Plugins/GenericFoliage
+	url = https://github.com/SquarerFive/GenericFoliage
