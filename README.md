@@ -1,2 +1,4 @@
-# CesiumGenericFoliage
-GenericFoliage with Cesium for Unreal plugin
+# CesiumFoliageExample
+
+An example project using the GenericFoliage plugin.
+
