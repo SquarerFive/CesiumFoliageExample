@@ -1,3 +1,6 @@
 [submodule "Plugins/GenericFoliage"]
 	path = Plugins/GenericFoliage
 	url = https://github.com/SquarerFive/GenericFoliage
+[submodule "Plugins/CesiumGenericFoliage"]
+	path = Plugins/CesiumGenericFoliage
+	url = https://github.com/SquarerFive/CesiumGenericFoliage
