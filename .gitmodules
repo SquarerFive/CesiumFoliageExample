@@ -1,7 +1,3 @@
-[submodule "Plugins/GenericFoliage"]
-	path = Plugins/GenericFoliage
-	url = https://github.com/SquarerFive/GenericFoliage
-	branch = ue4-main
 [submodule "Plugins/CesiumGenericFoliage"]
 	path = Plugins/CesiumGenericFoliage
 	url = https://github.com/SquarerFive/CesiumGenericFoliage.git
